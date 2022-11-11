@@ -1,8 +1,8 @@
 # project_PR
 
-Silica ((SiO2) - content classification by volumetric percentage:
-65% - 100%  felsic
-55% - 65%   intermediate
-45% - 55%   mafic
-0%  - 45%   ultramafic
+Silica ((SiO2) - content classification by volumetric percentage:<br>
+65% - 100%  felsic<br>
+55% - 65%   intermediate<br>
+45% - 55%   mafic<br>
+0%  - 45%   ultramafic<br>
 
