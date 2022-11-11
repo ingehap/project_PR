@@ -1,0 +1,30 @@
+
+Thus, the Poisson’s ratio of felsic rocks (Figure 8) is essentially controlled
+by relative volume fractions of quartz and feldspar and the anorthite
+content in plagioclase.
+
+The increase in PR with ρ, ranging from acid and intermediate to mafic rocks, 
+is controlled by variations in quartz and feldspar contents in the rocks 
+(Brocher, 2005; Christensen, 1996; Ji & Salisbury, 1993; Tarkov & Vavakin, 1982).
+
+Poisson’s ratio as a function of (a) density, (b) porosity, (c) clay content, and (d) silicate clast content for sandstone
+and siltstone samples (Rotliegendes well, Germany) at a hydrostatic pressure of 8 MPa. Experimental data from
+Freund (1992).
+
+Brocher, T. M. (2005). Empirical relations between elastic wave speeds and density in the Earth’s crust. Bulletin of the Seismological Society of
+America, 95, 2081–2092. https://doi.org/10.1785/0120050077
+
+Christensen, N. I. (1996). Poisson’s ratio and crustal seismology. Journal of Geophysical Research, 101(B2), 3139–3156. https://doi.org/10.1029/
+95JB03446
+
+Ji, S., & Salisbury, M. (1993). Shear-wave velocities, anisotropy and splitting in the high grade mylonites. Tectonophysics, 221(3-4), 453–473.
+https://doi.org/10.1016/0040-1951(93)90173-H
+
+Tarkov, A. P., & Vavakin, V. (1982). Poisson’s ratio behavior in crystalline rocks: Application to the study of the Earth’s interior. Physics of the
+Earth and Planetary Interiors, 29, 24–29.
+
+Freund, D. (1992). Ultrasonic compressional and shear velocities in dry clastic rocks as a function of porosity, clay content, and confining
+pressure. Geophysical Journal International, 108(1), 125–135. https://doi.org/10.1111/j.1365-246X.1992.tb00843.x
+
+
+
